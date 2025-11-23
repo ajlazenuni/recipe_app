@@ -4,7 +4,6 @@ This is a Flutter application created as part of Laboratory Exercise 2.
 The app uses **TheMealDB API** to display categories, meals, detailed recipes,  
 and random daily recipes.
 
-
 ##  Features
 
 ###  Categories Screen
@@ -22,7 +21,7 @@ and random daily recipes.
 - Search meals using API  
   `https://www.themealdb.com/api/json/v1/1/search.php?s={query}`
 
-### ✅ Meal Details Screen
+### Meal Details Screen
 - Full recipe:
   - Image  
   - Name  
@@ -32,12 +31,12 @@ and random daily recipes.
 - Loaded using:  
   `https://www.themealdb.com/api/json/v1/1/lookup.php?i={id}`
 
-### ✅ Random Recipe of the Day
+### Random Recipe of the Day
 - Shuffle icon in AppBar
 - Displays a random recipe using:  
   `https://www.themealdb.com/api/json/v1/1/random.php`
 
-### ✅ Code Structure (Required by the assignment)
+### Code Structure (Required by the assignment)
 lib/
 ├── models/
 ├── services/
@@ -46,11 +45,9 @@ lib/
 └── main.dart
 
 
-## 🖼️ Screenshots
+## Screenshots
 
 Below are screenshots of the working application.
-
-> Screenshots are located in: `lib/screenshots/`
 
 ### Categories Screen
 ![Categories](screenshots/sl1.png)
