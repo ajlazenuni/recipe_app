@@ -53,16 +53,16 @@ Below are screenshots of the working application.
 > Screenshots are located in: `lib/screenshots/`
 
 ### Categories Screen
-![Categories](lib/screenshots/sl1.png)
+![Categories](screenshots/sl1.png)
 
 ### Meals Screen
-![Meals](lib/screenshots/sl2.png)
+![Meals](screenshots/sl2.png)
 
 ### Meal Details
-![Details](lib/screenshots/sl3.png)
+![Details](screenshots/sl3.png)
 
-![Random](lib/screenshots/sl4.png)
+![Details](screenshots/sl4.png)
 
-![Random](lib/screenshots/sl5.png)
+![Details](screenshots/sl5.png)
 
-![Random](lib/screenshots/sl6.png)
+![Details](screenshots/sl6.png)
